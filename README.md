@@ -1,4 +1,3 @@
-<img src="./banner.png" />
 
 # 👋 Hey there
 
